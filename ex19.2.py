@@ -17,4 +17,7 @@ y = "tralalala"
 
 function_name(x, y)
 
+print("4-th way with input as floating numbers and some math - collection")
+function_name(float(input("First number: ")) + float(input("Second number: ")),float(input("Third number: ")) + float(input("Fourth number: ")))
+
 print("and more... next time")
